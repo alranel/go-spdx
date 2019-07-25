@@ -1,4 +1,4 @@
-module github.com/kyoh86/go-spdx
+module github.com/alranel/go-spdx
 
 require (
 	github.com/deadcheat/goblet v1.3.1
